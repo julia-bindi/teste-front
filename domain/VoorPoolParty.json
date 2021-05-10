@@ -1,0 +1,19 @@
+{
+  "Voor Pool Party":{
+    "Festa":{
+      "Pista": 100,
+      "Camarote": 200,
+      "Lounge": 300
+    },
+    "Alojamento":{
+      "Nenhum": 0,
+      "Hotel": 250,
+      "Acampamento" : 100
+    },
+    "Bebidas":{
+      "Cerveja": 10,
+      "Combo" : 150,
+      "Skol Beats": 15
+    }
+  }
+}
